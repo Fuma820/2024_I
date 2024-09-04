@@ -17,6 +17,11 @@ import static org.junit.Assert.*;
  */
 @RunWith(AndroidJUnit4.class)
 public class ExampleInstrumentedTest {
+    /**
+     * パッケージ名が期待される値と一致することを確認するメソッド．
+     * アプリケーションが正しくインストールされているか，および
+     * 正しいパッケージ名が使用されているかを検証するために使用され流．
+     */
     @Test
     public void useAppContext() {
         // Context of the app under test.

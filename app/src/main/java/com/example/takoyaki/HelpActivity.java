@@ -31,7 +31,7 @@ public class HelpActivity extends AppCompatActivity {
      * オプションメニューの項目が選択された時の処理メソッド．
      *
      * @param menuButton 選択されたメニュー項目．
-     * @return homeボタンが選択されてアクティビティが終了された場合はtrueを返し、
+     * @return homeボタンが選択されてアクティビティが終了された場合はtrueを返し，
      * それ以外の場合はスーパークラスのメソッドの結果を返す．
      */
     @Override
