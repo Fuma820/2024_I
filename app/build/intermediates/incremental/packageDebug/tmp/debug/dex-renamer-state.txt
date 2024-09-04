@@ -1,4 +1,4 @@
-#Wed Sep 04 03:59:29 JST 2024
+#Wed Sep 04 20:35:36 JST 2024
 base.0=/Users/fuma/GitHub/Takopa/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/Users/fuma/GitHub/Takopa/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/Users/fuma/GitHub/Takopa/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
